@@ -1,4 +1,4 @@
-# ✈️ British Airways Data Science Program
+# ✈️ British Airways Data Science Project
 
 This project explores British Airways customer data using data science, machine learning, and natural language processing techniques. It includes **sentiment analysis of customer reviews** alongside traditional predictive modeling to better understand customer satisfaction and feedback patterns.
 
